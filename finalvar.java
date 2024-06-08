@@ -5,11 +5,11 @@ public class  finalvar{
         System.out.println(a);
         a = 3;
         System.out.println(a);
+
         // final variable
         final int b = 6;
         System.out.println(b);
-        System.out.println("can it change?");
-        b = 3;
+        //b = 3;
         System.out.println(b);
         System.out.println("no final variable changes");
     }
